@@ -1,0 +1,8 @@
+# Keep data and SQL files byte-identical on every OS.
+# (Windows Git would otherwise convert to CRLF, which breaks MySQL LOAD DATA ... LINES TERMINATED BY '\n')
+*.csv text eol=lf
+*.sql text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf
+*.ipynb text eol=lf
+*.png binary

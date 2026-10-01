@@ -1,0 +1,175 @@
+Product ID,Product Name,Category,Sub-Category
+FUR-BO-1000,3-Shelf Shelving Unit M597,Furniture,Bookcases
+FUR-BO-1001,3-Shelf Shelving Unit P523,Furniture,Bookcases
+FUR-BO-1002,Barrister Bookcase H492,Furniture,Bookcases
+FUR-BO-1003,Corner Bookcase F467,Furniture,Bookcases
+FUR-BO-1004,Corner Shelving Unit B787,Furniture,Bookcases
+FUR-BO-1005,Open Shelving Unit T373,Furniture,Bookcases
+FUR-CH-1000,Comfort+ Chair M977,Furniture,Chairs
+FUR-CH-1001,ErgoFlex Guest Chair P494,Furniture,Chairs
+FUR-CH-1002,ErgoFlex Office Chair W157,Furniture,Chairs
+FUR-CH-1003,Executive Chair V504,Furniture,Chairs
+FUR-CH-1004,Executive Guest Chair B726,Furniture,Chairs
+FUR-CH-1005,Executive Office Chair D933,Furniture,Chairs
+FUR-CH-1006,Executive Office Chair K304,Furniture,Chairs
+FUR-CH-1007,Mesh Task Guest Chair S806,Furniture,Chairs
+FUR-CH-1008,Mesh Task Office Chair J839,Furniture,Chairs
+FUR-FU-1000,Desk Clock R281,Furniture,Furnishings
+FUR-FU-1001,Desk Lamp K911,Furniture,Furnishings
+FUR-FU-1002,Floor Lamp L725,Furniture,Furnishings
+FUR-FU-1003,Frame Clock S344,Furniture,Furnishings
+FUR-FU-1004,Frame Clock Z178,Furniture,Furnishings
+FUR-FU-1005,Frame Lamp W550,Furniture,Furnishings
+FUR-FU-1006,Frame Mat R515,Furniture,Furnishings
+FUR-FU-1007,LED Clock D442,Furniture,Furnishings
+FUR-FU-1008,LED Clock T971,Furniture,Furnishings
+FUR-FU-1009,Wall Clock R666,Furniture,Furnishings
+FUR-FU-1010,Wall Lamp C180,Furniture,Furnishings
+FUR-FU-1011,Wall Lamp H964,Furniture,Furnishings
+FUR-FU-1012,Wall Organizer F744,Furniture,Furnishings
+FUR-FU-1013,Wall Organizer L729,Furniture,Furnishings
+FUR-TA-1000,Folding Work Table C380,Furniture,Tables
+FUR-TA-1001,Folding Work Table K823,Furniture,Tables
+FUR-TA-1002,Rectangular Table R527,Furniture,Tables
+FUR-TA-1003,Round Table M702,Furniture,Tables
+FUR-TA-1004,Training Table D848,Furniture,Tables
+FUR-TA-1005,Training Table W359,Furniture,Tables
+OFF-AP-1000,Compact Shredder R553,Office Supplies,Appliances
+OFF-AP-1001,Desktop Shredder R820,Office Supplies,Appliances
+OFF-AP-1002,Heavy-Duty Heater C794,Office Supplies,Appliances
+OFF-AP-1003,Heavy-Duty Microwave V853,Office Supplies,Appliances
+OFF-AP-1004,Heavy-Duty Microwave Z820,Office Supplies,Appliances
+OFF-AP-1005,Heavy-Duty Shredder G863,Office Supplies,Appliances
+OFF-AP-1006,Quiet Shredder K281,Office Supplies,Appliances
+OFF-AR-1000,Crayon Pack C209,Office Supplies,Art
+OFF-AR-1001,Fine-Tip Pack M493,Office Supplies,Art
+OFF-AR-1002,Fine-Tip Pack V955,Office Supplies,Art
+OFF-AR-1003,Fine-Tip Pack X941,Office Supplies,Art
+OFF-AR-1004,Fine-Tip Set P986,Office Supplies,Art
+OFF-AR-1005,Highlighter Pack N530,Office Supplies,Art
+OFF-AR-1006,Highlighter Set Z232,Office Supplies,Art
+OFF-AR-1007,Marker Pack K365,Office Supplies,Art
+OFF-AR-1008,Marker Set C755,Office Supplies,Art
+OFF-AR-1009,Pencil Pack A716,Office Supplies,Art
+OFF-AR-1010,Pencil Set C508,Office Supplies,Art
+OFF-AR-1011,Pencil Set F864,Office Supplies,Art
+OFF-BI-1000,Clear-View Binder P563,Office Supplies,Binders
+OFF-BI-1001,Clear-View Binder Set X791,Office Supplies,Binders
+OFF-BI-1002,Heavy-Duty Binder G598,Office Supplies,Binders
+OFF-BI-1003,Heavy-Duty Binder Set D613,Office Supplies,Binders
+OFF-BI-1004,Heavy-Duty Binder T340,Office Supplies,Binders
+OFF-BI-1005,Heavy-Duty Binder W184,Office Supplies,Binders
+OFF-BI-1006,Poly Binder E133,Office Supplies,Binders
+OFF-BI-1007,Poly Binder E956,Office Supplies,Binders
+OFF-BI-1008,Poly Binder F119,Office Supplies,Binders
+OFF-BI-1009,Poly Binder M568,Office Supplies,Binders
+OFF-BI-1010,Poly Binder Set E903,Office Supplies,Binders
+OFF-BI-1011,Poly Binder Z941,Office Supplies,Binders
+OFF-BI-1012,Presentation Binder N923,Office Supplies,Binders
+OFF-BI-1013,Presentation Binder P704,Office Supplies,Binders
+OFF-BI-1014,Presentation Binder R541,Office Supplies,Binders
+OFF-BI-1015,Presentation Binder Set A905,Office Supplies,Binders
+OFF-BI-1016,Presentation Binder Set K826,Office Supplies,Binders
+OFF-BI-1017,Presentation Binder Z992,Office Supplies,Binders
+OFF-BI-1018,Ring Binder F692,Office Supplies,Binders
+OFF-BI-1019,Ring Binder M140,Office Supplies,Binders
+OFF-BI-1020,Ring Binder Set B772,Office Supplies,Binders
+OFF-BI-1021,Ring Binder Set H694,Office Supplies,Binders
+OFF-BI-1022,Ring Binder Set K384,Office Supplies,Binders
+OFF-BI-1023,Ring Binder Set M433,Office Supplies,Binders
+OFF-EN-1000,Kraft Envelopes C952,Office Supplies,Envelopes
+OFF-EN-1001,Kraft Envelopes J237,Office Supplies,Envelopes
+OFF-EN-1002,Padded Envelopes J670,Office Supplies,Envelopes
+OFF-EN-1003,Padded Envelopes J806,Office Supplies,Envelopes
+OFF-EN-1004,Window Envelopes B373,Office Supplies,Envelopes
+OFF-EN-1005,Window Envelopes V295,Office Supplies,Envelopes
+OFF-FA-1000,Assorted Push Pins F819,Office Supplies,Fasteners
+OFF-FA-1001,Assorted Push Pins Z560,Office Supplies,Fasteners
+OFF-FA-1002,Coloured Rubber Bands M896,Office Supplies,Fasteners
+OFF-FA-1003,Jumbo Push Pins M662,Office Supplies,Fasteners
+OFF-FA-1004,Jumbo Rubber Bands H593,Office Supplies,Fasteners
+OFF-FA-1005,Jumbo Rubber Bands V552,Office Supplies,Fasteners
+OFF-LA-1000,Address Labels H182,Office Supplies,Labels
+OFF-LA-1001,Colour-Coded Labels T328,Office Supplies,Labels
+OFF-LA-1002,Colour-Coded Labels W614,Office Supplies,Labels
+OFF-LA-1003,Removable Labels D438,Office Supplies,Labels
+OFF-LA-1004,Removable Labels N512,Office Supplies,Labels
+OFF-LA-1005,Shipping Labels R469,Office Supplies,Labels
+OFF-PA-1000,Colour Paper Pack V116,Office Supplies,Paper
+OFF-PA-1001,Colour Paper Ream G845,Office Supplies,Paper
+OFF-PA-1002,Copy Paper Pack G378,Office Supplies,Paper
+OFF-PA-1003,Copy Paper Ream V147,Office Supplies,Paper
+OFF-PA-1004,Laser Paper Pack F508,Office Supplies,Paper
+OFF-PA-1005,Laser Paper Pack S642,Office Supplies,Paper
+OFF-PA-1006,Laser Paper Pack S886,Office Supplies,Paper
+OFF-PA-1007,Laser Paper Pack V834,Office Supplies,Paper
+OFF-PA-1008,Laser Paper Ream C686,Office Supplies,Paper
+OFF-PA-1009,Laser Paper Ream V385,Office Supplies,Paper
+OFF-PA-1010,Laser Paper Ream W159,Office Supplies,Paper
+OFF-PA-1011,Laser Paper Ream X927,Office Supplies,Paper
+OFF-PA-1012,Premium Paper Pack H231,Office Supplies,Paper
+OFF-PA-1013,Premium Paper Pack L711,Office Supplies,Paper
+OFF-PA-1014,Premium Paper Ream D355,Office Supplies,Paper
+OFF-PA-1015,Premium Paper Ream F312,Office Supplies,Paper
+OFF-PA-1016,Premium Paper Ream K203,Office Supplies,Paper
+OFF-PA-1017,Premium Paper Ream R149,Office Supplies,Paper
+OFF-PA-1018,Recycled Paper Pack K309,Office Supplies,Paper
+OFF-PA-1019,Recycled Paper Pack T644,Office Supplies,Paper
+OFF-PA-1020,Recycled Paper Ream C436,Office Supplies,Paper
+OFF-ST-1000,Archive Drawer Unit N175,Office Supplies,Storage
+OFF-ST-1001,Locking Drawer Unit S223,Office Supplies,Storage
+OFF-ST-1002,Locking Drawer Unit X218,Office Supplies,Storage
+OFF-ST-1003,Locking File Cart E823,Office Supplies,Storage
+OFF-ST-1004,Locking File Cart K803,Office Supplies,Storage
+OFF-ST-1005,Locking File Cart T668,Office Supplies,Storage
+OFF-ST-1006,Locking File Cart Z862,Office Supplies,Storage
+OFF-ST-1007,Rolling Storage Box D760,Office Supplies,Storage
+OFF-ST-1008,Rolling Storage Box N724,Office Supplies,Storage
+OFF-ST-1009,Wire Drawer Unit D819,Office Supplies,Storage
+OFF-ST-1010,Wire Drawer Unit X950,Office Supplies,Storage
+OFF-ST-1011,Wire File Cart P185,Office Supplies,Storage
+OFF-ST-1012,Wire File Cart T395,Office Supplies,Storage
+OFF-SU-1000,Desktop Letter Opener B994,Office Supplies,Supplies
+OFF-SU-1001,Desktop Letter Opener J434,Office Supplies,Supplies
+OFF-SU-1002,Desktop Scissors F640,Office Supplies,Supplies
+OFF-SU-1003,Desktop Scissors L428,Office Supplies,Supplies
+OFF-SU-1004,Precision Letter Opener J379,Office Supplies,Supplies
+OFF-SU-1005,Titanium Scissors K843,Office Supplies,Supplies
+TEC-AC-1000,Bluetooth Headset T495,Technology,Accessories
+TEC-AC-1001,Bluetooth Headset Z688,Technology,Accessories
+TEC-AC-1002,Bluetooth Hub L747,Technology,Accessories
+TEC-AC-1003,Bluetooth Hub T657,Technology,Accessories
+TEC-AC-1004,Bluetooth Hub Z540,Technology,Accessories
+TEC-AC-1005,Ergonomic Headset P411,Technology,Accessories
+TEC-AC-1006,Ergonomic Keyboard Z784,Technology,Accessories
+TEC-AC-1007,USB-C Hub B202,Technology,Accessories
+TEC-AC-1008,USB-C Hub C985,Technology,Accessories
+TEC-AC-1009,USB-C Hub P803,Technology,Accessories
+TEC-AC-1010,Wireless Keyboard V759,Technology,Accessories
+TEC-AC-1011,Wireless Mouse G136,Technology,Accessories
+TEC-CO-1000,Colour Copier H281,Technology,Copiers
+TEC-CO-1001,Colour Copier Pro V730,Technology,Copiers
+TEC-CO-1002,Mono Copier C428,Technology,Copiers
+TEC-CO-1003,Mono Copier C616,Technology,Copiers
+TEC-CO-1004,Mono Copier Pro E546,Technology,Copiers
+TEC-CO-1005,Multifunction Copier Pro B452,Technology,Copiers
+TEC-MA-1000,Compact Binding Machine W368,Technology,Machines
+TEC-MA-1001,Compact Label Maker R905,Technology,Machines
+TEC-MA-1002,Industrial Binding Machine F313,Technology,Machines
+TEC-MA-1003,Wide-Format Binding Machine M126,Technology,Machines
+TEC-MA-1004,Wide-Format Binding Machine M412,Technology,Machines
+TEC-MA-1005,Wide-Format Printer X562,Technology,Machines
+TEC-PH-1000,Nova Smartphone E540,Technology,Phones
+TEC-PH-1001,Nova Smartphone F319,Technology,Phones
+TEC-PH-1002,Orbit Conference Phone S585,Technology,Phones
+TEC-PH-1003,Orbit IP Phone N152,Technology,Phones
+TEC-PH-1004,Orbit Smartphone L502,Technology,Phones
+TEC-PH-1005,Pulse IP Phone T990,Technology,Phones
+TEC-PH-1006,Pulse Smartphone F915,Technology,Phones
+TEC-PH-1007,Vertex Conference Phone J702,Technology,Phones
+TEC-PH-1008,Vertex Conference Phone X235,Technology,Phones
+TEC-PH-1009,Zen Conference Phone G171,Technology,Phones
+TEC-PH-1010,Zen Conference Phone S543,Technology,Phones
+TEC-PH-1011,Zen IP Phone A489,Technology,Phones
+TEC-PH-1012,Zen IP Phone V673,Technology,Phones
+TEC-PH-1013,Zen Smartphone P309,Technology,Phones

@@ -1,0 +1,16 @@
+step,rows_before,rows_after,rows_removed,values_changed,decision
+Load raw data,11567,11567,0,0,Starting point.
+Strip whitespace,11567,11567,0,67,Trimmed spaces in text columns so identical values group together.
+Standardise Region,11567,11567,0,81,Fixed casing/typos; rebuilt 35 missing and 0 inconsistent regions from State (each state maps to one region).
+Standardise Category,11567,11567,0,43,Fixed casing/abbreviations; Category re-derived from Sub-Category.
+Fix numeric types,11567,11567,0,30,"Removed '$' and ',' from Sales text and converted numeric columns."
+Remove exact duplicates,11567,11497,70,70,Dropped fully identical rows (double export). Kept first copy.
+Fix discounts,11497,11497,0,18,Converted percentage-style discounts (20 -> 0.20); removed values outside the allowed discount levels.
+Fill names from IDs,11497,11497,0,45,Rebuilt missing Customer/Product names using their IDs.
+Remove invalid order dates,11497,11492,5,5,Dropped rows whose Order Date is not a real date (e.g. 2023-02-30).
+Blank impossible ship dates,11492,11492,0,6,Ship Date before Order Date set to missing; sale itself kept.
+Remove missing Sales/Profit,11492,11475,17,17,Cannot rebuild money values without price/cost data; rows removed.
+Remove impossible Sales/Quantity,11475,11461,14,14,Removed Sales <= 0 or Quantity <= 0. Negative Profit is kept (real losses).
+Check Order ID + Product ID,11461,11461,0,0,Repeated Order IDs are normal (multi-product orders); 0 repeated Order ID + Product ID pairs found.
+Flag high-value outliers,11461,11461,0,1016,"Flagged lines with Sales > 1,170.48 (IQR rule). Kept: they are real large orders."
+Final clean data,11461,11461,0,0,All validation checks passed.
